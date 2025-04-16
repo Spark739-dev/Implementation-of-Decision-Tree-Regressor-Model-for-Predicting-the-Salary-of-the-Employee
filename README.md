@@ -14,6 +14,7 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 4. Use decision tree regressor to solve the regression problems
 5. Use y_pred and use predict the future outcomes.
 6. Print the predicted variable (y_pred).
+7. Use sklearn.metrics to impore r2_score to get the performance score of the model.
 
 ## Program:
 ```
